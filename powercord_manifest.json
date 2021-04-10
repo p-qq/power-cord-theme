@@ -1,0 +1,8 @@
+{
+    "name": "qute theme",
+    "description": "https://skadaddle.cc/",
+    "version": "6.9 <3",
+    "author": "pix",
+    "theme": "index.css",
+    "license": "MIT"
+}
