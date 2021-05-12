@@ -12,7 +12,7 @@ cd powercord/src/Powercord/themes
 ```
 step 2
 ```
-git clone https://github.com/eozri/power-cord-theme
+git clone https://github.com/pix0070/power-cord-theme
 ```
 
 # what it looks like
